@@ -1,0 +1,19 @@
+{
+  "name": "jubo-ui",
+  "version": "1.0.0",
+  "description": "ui for jubo-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mrjimbot@bitbucket.org/jubo-app/jubo-ui.git"
+  },
+  "keywords": [
+    "jubo"
+  ],
+  "author": "James <jimkim777@gmail.com> (http://www.jameskim.io/)",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/jubo-app/jubo-ui#readme"
+}
